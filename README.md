@@ -6,7 +6,7 @@ Tested on DOSBox
 * Download/Clone file, place asm file in DOSBox bin folder.
 * Using DOSBox, mount directory which stores this asm file
 * Type the following command:	
-	nasm spaceinvaders.asm -o spaceinvaders.exe
+	`nasm spaceinvaders.asm -o spaceinvaders.exe`
 * Type the following command:
-	spaceinvaders.exe
+	`spaceinvaders.exe`
 * ENJOY!
